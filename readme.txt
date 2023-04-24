@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/76090648/create-a-local-monitoring-agent-that-communicates-with-an-api-on-demand
